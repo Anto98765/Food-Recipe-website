@@ -1,10 +1,9 @@
 # Food-Recipe-website
----
 
 First time I Analyze and Edited a website made by claude
 
-# The prompt that i used :
 ---
+# The prompt that i used :
 
 ​"Make me a simple, modern, and responsive Food & Recipe website using pure HTML and CSS.
 
