@@ -3,7 +3,6 @@
 
 First time I Analyze and Edited a website made by claude
 
----
 # The prompt that i used :
 ---
 
@@ -21,6 +20,5 @@ First time I Analyze and Edited a website made by claude
 
 ​The purpose of this code is to practice HTML and CSS with you."
 
----
 
 
